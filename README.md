@@ -15,7 +15,7 @@ kingsoft Cloud Font：https://design.ksyun.com/font
 
 Download：https://damife.ks3-cn-beijing.ksyuncs.com/kpc/Kingsoft_Cloud_Font.ttf
 
-Smiley Sans：https://atelier-anchor.com/typefaces/smiley-sans/
+Smiley Sans得意黑：https://atelier-anchor.com/typefaces/smiley-sans/
 
 GitHub：https://github.com/atelier-anchor/smiley-sans
 
@@ -24,3 +24,9 @@ Download：https://github.com/atelier-anchor/smiley-sans/releases
 https://github.com/atelier-anchor/smiley-sans/releases/download/v1.0.0/smiley-sans-v1.0.0.zip
 
 https://ghproxy.com/?q=https%3A%2F%2Fgithub.com%2Fatelier-anchor%2Fsmiley-sans%2Freleases%2Fdownload%2Fv1.0.0%2Fsmiley-sans-v1.0.0.zip
+
+Tencent Font腾讯体：
+
+Download：https://wwfr.lanzout.com/iAxcw0hlmveb
+
+https://bafybeihhnpoq4eebbwkqaptit5egs2qw5way5nv5izgg574bn4noz5jcmi.ipfs.dweb.link/TTTGB-Medium.zip

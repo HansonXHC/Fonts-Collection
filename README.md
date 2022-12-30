@@ -25,7 +25,7 @@ https://github.com/atelier-anchor/smiley-sans/releases/download/v1.0.0/smiley-sa
 
 https://ghproxy.com/?q=https%3A%2F%2Fgithub.com%2Fatelier-anchor%2Fsmiley-sans%2Freleases%2Fdownload%2Fv1.0.0%2Fsmiley-sans-v1.0.0.zip
 
-Tencent Font腾讯体：
+Tencent Font腾讯体
 
 Download：https://wwfr.lanzout.com/iAxcw0hlmveb
 
@@ -34,3 +34,13 @@ https://bafybeihhnpoq4eebbwkqaptit5egs2qw5way5nv5izgg574bn4noz5jcmi.ipfs.dweb.li
 DingTalk JinBuTi&DingTalk Sans钉钉进步体：https://page.dingtalk.com/wow/dingtalk/default/dingtalk/y-W5aF3_ZJwzulU0nceIl
 
 Download：https://files.alicdn.com/tpsservice/0f4e697671849694f93f0df8ebddf0d2.zip
+
+Alibaba PuHuiTi (Sans)阿里巴巴普惠体：https://fonts.alibabagroup.com/#/font
+
+Download：https://fonts.alibabagroup.com/#/font
+
+https://puhuiti.oss-cn-hangzhou.aliyuncs.com/AlibabaPuHuiTi-2.zip (Simplified Chinese)
+
+Alimama ShuHeTi阿里妈妈数黑体：https://fonts.alibabagroup.com/#/more
+
+Download：https://puhuiti.oss-cn-hangzhou.aliyuncs.com/AlimamaShuHeiTi.zip

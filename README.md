@@ -31,6 +31,6 @@ Download：https://wwfr.lanzout.com/iAxcw0hlmveb
 
 https://bafybeihhnpoq4eebbwkqaptit5egs2qw5way5nv5izgg574bn4noz5jcmi.ipfs.dweb.link/TTTGB-Medium.zip
 
-DingTalk JinBuTi钉钉进步体：https://page.dingtalk.com/wow/dingtalk/default/dingtalk/y-W5aF3_ZJwzulU0nceIl
+DingTalk JinBuTi&DingTalk Sans钉钉进步体：https://page.dingtalk.com/wow/dingtalk/default/dingtalk/y-W5aF3_ZJwzulU0nceIl
 
 Download：https://files.alicdn.com/tpsservice/0f4e697671849694f93f0df8ebddf0d2.zip

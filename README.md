@@ -6,13 +6,21 @@ Download：https://github.com/adobe-fonts/source-han-sans/releases
 
 HarmonyOS Sans：https://developer.harmonyos.com/cn/docs/design/font-0000001157868583
 
+https://developer.harmonyos.com/cn/design/resource
+
 Download：https://communityfile-drcn.op.hicloud.com/FileServer/getFile/cmtyPub/011/111/111/0000000000011111111.20221101115044.33201174322571893280998053929524:50531031060425:2800:6DA5B24196810B0861671524221560A081031A0859326AD524B15C316D0AB6F9.zip?needInitFileName=true
+
+https://developer.harmonyos.com/resource/image/design/res/download/general/HarmonyOS-Sans.zip
 
 HONOR Sans：https://developer.hihonor.com/cn/doc/guides/100681
 
 Download：https://contentplatform-drcn.hihonorcdn.com/developerPlatform/HONOR_Sans_1.1/HONOR_Sans_1.1.zip
 
-MiSans：https://web.vip.miui.com/page/info/mio/mio/detail?postId=33935854
+MiSans：https://hyperos.mi.com/font
+
+Download：https://hyperos.mi.com/font/download
+
+MiSans(old)：https://web.vip.miui.com/page/info/mio/mio/detail?postId=33935854
 
 Download：https://cdn.cnbj1.fds.api.mi-img.com/vipmlmodel/font/MiSans/MiSans.zip
 

@@ -28,6 +28,8 @@ https://developer.huawei.com/images/download/next/HarmonyOS-Sans.zip
 
 HONOR Sans：https://developer.hihonor.com/cn/doc/guides/100681
 
+https://developer.honor.com/cn/docs/11101/guides/04.layout_adaptation#%E5%AD%97%E4%BD%93
+
 Download：https://contentplatform-drcn.hihonorcdn.com/developerPlatform/HONOR_Sans_1.1/HONOR_Sans_1.1.zip
 
 MiSans：https://hyperos.mi.com/font

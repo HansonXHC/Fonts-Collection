@@ -24,6 +24,8 @@ Download：https://communityfile-drcn.op.hicloud.com/FileServer/getFile/cmtyPub/
 
 https://developer.harmonyos.com/resource/image/design/res/download/general/HarmonyOS-Sans.zip
 
+https://developer.huawei.com/images/download/next/HarmonyOS-Sans.zip
+
 HONOR Sans：https://developer.hihonor.com/cn/doc/guides/100681
 
 Download：https://contentplatform-drcn.hihonorcdn.com/developerPlatform/HONOR_Sans_1.1/HONOR_Sans_1.1.zip

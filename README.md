@@ -40,6 +40,14 @@ OPPO Sans：https://www.coloros.com/index/newsDetail?id=72
 
 Download：https://static01.coloros.com/www/public/img/topic7/font-opposans.zip?242
 
+vivo Sans：https://developers.vivo.com/doc/d/314fa33cbaec4a93be351cd44757d9d9
+
+https://www.vivo.com.cn/originos
+
+Download：https://developersstatic.vivo.com/developers/a35fff2a375446128246336c9fe6856f/20240926/vivo%20Sans.zip
+
+https://h5-pre.vivo.com.cn/pcvivo/OS5-font/vivo%20Sans.zip
+
 kingsoft Cloud Font：https://design.ksyun.com/font
 
 Download：https://damife.ks3-cn-beijing.ksyuncs.com/kpc/Kingsoft_Cloud_Font.ttf

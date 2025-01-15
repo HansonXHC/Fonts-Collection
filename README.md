@@ -85,3 +85,13 @@ https://puhuiti.oss-cn-hangzhou.aliyuncs.com/AlibabaPuHuiTi-2.zip (Simplified Ch
 Alimama ShuHeTi 阿里妈妈数黑体：https://fonts.alibabagroup.com/#/more
 
 Download：https://puhuiti.oss-cn-hangzhou.aliyuncs.com/AlimamaShuHeiTi.zip
+
+LXWG 落霞孤鹜系列：https://lxgw.github.io/2021/01/15/Lxgw-Opensource-Chinese-Fonts/
+
+LXGW WenKai 霞鹜文楷：https://github.com/lxgw/LxgwWenKai
+
+LXGW Neo XiHei 霞鹜新晰黑：https://github.com/lxgw/LxgwNeoXiHei
+
+LXGW Neo ZhiSong 霞鹜新致宋：https://github.com/lxgw/LxgwNeoZhiSong
+
+新晰黑体＆新致宋体：https://github.com/lxgw/SimXiZhi

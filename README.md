@@ -94,4 +94,4 @@ LXGW Neo XiHei 霞鹜新晰黑：https://github.com/lxgw/LxgwNeoXiHei
 
 LXGW Neo ZhiSong 霞鹜新致宋：https://github.com/lxgw/LxgwNeoZhiSong
 
-新晰黑体＆新致宋体：https://github.com/lxgw/SimXiZhi
+SimXiHei & SimZhiSong 新晰黑体＆新致宋体：https://github.com/lxgw/SimXiZhi
